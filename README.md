@@ -23,8 +23,8 @@ Installation
 Follow these steps to get the project running on your local machine.
 
 1. Clone the Repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/Saagarika-muk/Software-Engineer-ntern-Zeotap/tree/main
+cd Software-Engineer-ntern-Zeotap
 2. Install Dependencies
 If you're working with the Wrangler Parser in Java, use Maven:
 
